@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="departamentos">
+        <item>San Salvador</item>
+        <item>San Miguel</item>
+        <item>Usulutan</item>
+    </string-array>
+
+
+</resources>

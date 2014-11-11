@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi Empleo</string>
+    <string name="title_section1">Inicio</string>
+    <string name="title_section2">Departamento</string>
+    <string name="title_section3">Municipio</string>
+    <string name="title_section4">Tipo Documento</string>
+    <string name="title_section5">Nivel Estudio</string>
+    <string name="title_section6">Solicitante</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">::: UGF :::</string>
+    <string name="action_settings">Salir</string>
+    <string name="title_activity_create_municipio">Crear Municipio</string>
+    <string name="title_activity_update_municipio">Modificar Municipio</string>
+
+    <string name="title_activity_create_tipodoc">Crear Tipo Documento</string>
+    <string name="title_activity_update_tipodoc">Modificar Tipo Documento</string>
+
+    <string name="title_activity_create_nivelestudio">Crear Nivel Estudio</string>
+    <string name="title_activity_update_nivelestudio">Modificar Nivel Estudio</string>
+
+    <string name="title_activity_create_departamento">Crear Departamento</string>
+    <string name="title_activity_update_departamento">Modificar Departamento</string>
+
+    <string name="title_activity_create_solicitante">Crear Solicitante</string>
+    <string name="title_activity_update_solicitante">Modificar Solicitante</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

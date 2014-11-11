@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.raulh.miempleo_final">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".testdb.Departamento$create"
+            android:label="@string/title_activity_create_departamento"></activity>
+
+        <activity
+            android:name=".testdb.Departamento$update"
+            android:label="@string/title_activity_update_departamento"></activity>
+
+        <activity
+            android:name=".testdb.NivelEstudio$create"
+            android:label="@string/title_activity_create_nivelestudio"></activity>
+
+        <activity
+            android:name=".testdb.NivelEstudio$update"
+            android:label="@string/title_activity_update_nivelestudio"></activity>
+
+        <activity
+            android:name=".testdb.TipoDoc$create"
+            android:label="@string/title_activity_create_tipodoc"></activity>
+
+        <activity
+            android:name=".testdb.TipoDoc$update"
+            android:label="@string/title_activity_update_tipodoc"></activity>
+
+        <activity
+            android:name=".testdb.Municipio$create"
+            android:label="@string/title_activity_create_municipio"></activity>
+
+        <activity
+            android:name=".testdb.Municipio$update"
+            android:label="@string/title_activity_update_municipio"></activity>
+
+        <activity
+            android:name=".testdb.Solicitante$create"
+            android:label="@string/title_activity_create_solicitante"></activity>
+
+    </application>
+
+</manifest>
